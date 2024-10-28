@@ -1,1 +1,1 @@
-<a href="amazon.com">amazon.com</a>
+<a href="https://www.amazon.com/">amazon.com</a>
